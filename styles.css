@@ -1,0 +1,9 @@
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+.header-content i {
+  font-size: 24px;
+  margin-right: 10px;
+}
