@@ -3,7 +3,6 @@ import Head from 'next/head';
 import { useState, useEffect } from 'react';
 import Joyride, { Step } from 'react-joyride';
 import Sidebar from './components/Sidebar';
-import Image from 'next/image'
 
 // 설명 상태를 위한 인터페이스 정의
 interface ExplanationState {
